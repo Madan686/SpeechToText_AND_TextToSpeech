@@ -84,7 +84,8 @@ Choose an option:
 
   * be printed on screen
   * be saved to a text file
-* Say:
+
+Say:
 
 ```
 exit listening mode
@@ -106,13 +107,7 @@ to stop recording
 * Transcriptions are saved in:
 
 ```
-/transcriptions/
-```
-
-Example:
-
-```
-savedfile_20260408_153000.txt
+C:\Users\Madan\Desktop\Machine_learning2\savedfile.txt
 ```
 
 ---
